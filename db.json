@@ -1,0 +1,5 @@
+{
+"Class":[
+	{"id":1, "name":"Méderic la Menace", "code_carte":12345, "présent":true },
+	{"id":2, "name":"Nourreddine Jemmoudi", "code_carte":56789, "présent":false}]
+}
